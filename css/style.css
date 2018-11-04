@@ -1,0 +1,31 @@
+#info{
+    height:50px;
+    width: 65px;
+    border-bottom: 6px solid #009999;
+    background-color: lightgrey;
+   
+    
+}
+
+
+
+h1
+{
+    text-shadow: 2px 2px 5px red;
+}
+button{
+    position: relative;
+    background-color: 	#666699;
+    border: none;
+    font-size: 10px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 80px;
+    height: 50;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}

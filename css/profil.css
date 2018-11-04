@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/Batik-Background.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-size: 100%;
+    
+}
+table border{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(send.svg) 30 round;
+}
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+    
+}
